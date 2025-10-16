@@ -39,6 +39,7 @@ Build a Python tool to analyze password strength and generate custom wordlists f
 
 - `password_tool.py` — Main script  
 - `README.md` — Documentation
+- `wordlist.txt` — words given by user
 
 ---
 
